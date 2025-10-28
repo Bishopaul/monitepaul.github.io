@@ -3,11 +3,11 @@
 
 Welcome to my personal website! I'm **Paul Monite**, a backend web developer and cybersecurity enthusiast based in Lagos, Nigeria.
 
-## 🔍 About Me
+## About Me
 
 I'm currently enrolled in the **ALX Software Engineering** and **ALX Cybersecurity** programs, where I’m building secure systems and scalable backend solutions. I also hold a **Google Cybersecurity Certificate**, which deepened my understanding of threat detection, incident response, and security best practices.
 
-## 🛠️ Skills & Interests
+## Skills & Interests
 
 - Backend development (APIs, databases, server-side logic)
 - Cybersecurity fundamentals and incident response
@@ -15,7 +15,7 @@ I'm currently enrolled in the **ALX Software Engineering** and **ALX Cybersecuri
 - Cloud computing basics (AWS, EC2, SIEM)
 - Git version control and GitHub workflows
 
-## 📁 Projects
+## Projects
 
 Explore my GitHub repositories to see:
 - Cybersecurity labs and writeups
@@ -23,7 +23,7 @@ Explore my GitHub repositories to see:
 - Linux privilege escalation scripts
 - Splunk dashboards and SOC workflows
 
-## 📫 Contact
+## Contact
 
 Feel free to reach out or connect:
 - **Email**: [monitepaul@gmail.com](mailto:monitepaul@gmail.com)
